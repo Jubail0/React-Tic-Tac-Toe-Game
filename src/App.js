@@ -84,12 +84,6 @@ const App = () => {
         setBoard(updatedBoard)
 
     }
-    // const handleReset = ()=>{
-    //   setBoard(boardInfo);
-    //   setDraw(false);
-    //   setWonBy(null)
-    //   setShowResetButton(false)
-    // }
 
     const handleReset = ()=>{
         setBoard(boardInfo);
